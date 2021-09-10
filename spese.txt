@@ -1,0 +1,5 @@
+Data - Categoria - Descrizione - Importo
+10/09/2021;Travel;Viaggio;307.9
+09/09/2021;Other;Altro;500.9
+08/09/2021;Food;Cibo;1009.8
+07/08/2021;House;Casa;3000,99

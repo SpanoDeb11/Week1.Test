@@ -1,0 +1,16 @@
+C:\Users\debora.spano\Desktop\Week1\Test\Week1.Test\Week1.Test\bin\Debug\net5.0\Week1.Test.exe
+C:\Users\debora.spano\Desktop\Week1\Test\Week1.Test\Week1.Test\bin\Debug\net5.0\Week1.Test.deps.json
+C:\Users\debora.spano\Desktop\Week1\Test\Week1.Test\Week1.Test\bin\Debug\net5.0\Week1.Test.runtimeconfig.json
+C:\Users\debora.spano\Desktop\Week1\Test\Week1.Test\Week1.Test\bin\Debug\net5.0\Week1.Test.runtimeconfig.dev.json
+C:\Users\debora.spano\Desktop\Week1\Test\Week1.Test\Week1.Test\bin\Debug\net5.0\Week1.Test.dll
+C:\Users\debora.spano\Desktop\Week1\Test\Week1.Test\Week1.Test\bin\Debug\net5.0\ref\Week1.Test.dll
+C:\Users\debora.spano\Desktop\Week1\Test\Week1.Test\Week1.Test\bin\Debug\net5.0\Week1.Test.pdb
+C:\Users\debora.spano\Desktop\Week1\Test\Week1.Test\Week1.Test\obj\Debug\net5.0\Week1.Test.csproj.AssemblyReference.cache
+C:\Users\debora.spano\Desktop\Week1\Test\Week1.Test\Week1.Test\obj\Debug\net5.0\Week1.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\debora.spano\Desktop\Week1\Test\Week1.Test\Week1.Test\obj\Debug\net5.0\Week1.Test.AssemblyInfoInputs.cache
+C:\Users\debora.spano\Desktop\Week1\Test\Week1.Test\Week1.Test\obj\Debug\net5.0\Week1.Test.AssemblyInfo.cs
+C:\Users\debora.spano\Desktop\Week1\Test\Week1.Test\Week1.Test\obj\Debug\net5.0\Week1.Test.csproj.CoreCompileInputs.cache
+C:\Users\debora.spano\Desktop\Week1\Test\Week1.Test\Week1.Test\obj\Debug\net5.0\Week1.Test.dll
+C:\Users\debora.spano\Desktop\Week1\Test\Week1.Test\Week1.Test\obj\Debug\net5.0\ref\Week1.Test.dll
+C:\Users\debora.spano\Desktop\Week1\Test\Week1.Test\Week1.Test\obj\Debug\net5.0\Week1.Test.pdb
+C:\Users\debora.spano\Desktop\Week1\Test\Week1.Test\Week1.Test\obj\Debug\net5.0\Week1.Test.genruntimeconfig.cache

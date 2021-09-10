@@ -1,0 +1,5 @@
+Data - Categoria - Descrizioni - Approvazione - LvlApprv - Importo Rimborso
+10/9/2021 12:00:00 AM;Travel;Viaggio;APPROVATA;Manager;357.9
+9/9/2021 12:00:00 AM;Other;Altro;APPROVATA;OperationalManager;50.09
+8/9/2021 12:00:00 AM;Food;Cibo;APPROVATA;CEO;100.98
+7/8/2021 12:00:00 AM;House;Casa;RESPINTA;-;-
